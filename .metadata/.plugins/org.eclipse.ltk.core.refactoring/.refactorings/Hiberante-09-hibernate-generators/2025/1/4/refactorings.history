@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Hiberante-09-hibernate-generators/src/personinfo.hbml.xml&apos; to &apos;personinfo.hbm.xml&apos;" description="Rename resource &apos;personinfo.hbml.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/personinfo.hbml.xml" name="personinfo.hbm.xml" stamp="1737623090800" updateReferences="true"/>
+</session>

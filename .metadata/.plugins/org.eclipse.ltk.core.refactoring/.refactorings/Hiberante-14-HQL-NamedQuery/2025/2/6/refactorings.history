@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;hibernate.cfg.xml&apos; to &apos;Hiberante-16-NativeSQL-Query/src&apos;&#x0D;&#x0A;- Original project: &apos;Hiberante-14-HQL-NamedQuery&apos;&#x0D;&#x0A;- Destination element: &apos;Hiberante-16-NativeSQL-Query/src&apos;&#x0D;&#x0A;- Original element: &apos;hibernate.cfg.xml&apos;" description="Copy file" destination="=Hiberante-16-NativeSQL-Query/src" element1="src/hibernate.cfg.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1738470297433" units="0" version="1.0"/>
+</session>

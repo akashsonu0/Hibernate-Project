@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;in.pwskills.akash.bean.PhoneNumber.person&apos; in &apos;in.pwskills.akash.bean.PhoneNumber&apos;&#x0D;&#x0A;- Original project: &apos;Hibernate-30-AssociationMapping-O2M(BD)&apos;&#x0D;&#x0A;- Original element: &apos;in.pwskills.akash.bean.PhoneNumber.person&apos;&#x0D;&#x0A;- Getter method name: &apos;getPerson&apos;&#x0D;&#x0A;- Setter method name: &apos;setPerson&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;person, ...&apos;" flags="589830" getter="getPerson" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;in.pwskills.akash.bean{PhoneNumber.java[PhoneNumber^person" insertion="9" setter="setPerson" stamp="1738839885564" version="1.0" visibility="1"/>
+</session>

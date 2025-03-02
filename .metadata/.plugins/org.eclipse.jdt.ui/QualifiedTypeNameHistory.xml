@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+    <fullyQualifiedTypeName name="in.pwskills.nitin.util.HibernateUtil"/>
+    <fullyQualifiedTypeName name="in.pwskills.nitin.bean.Student"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.dao.InsurancePolicyDao"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.bean.Products"/>
+    <fullyQualifiedTypeName name="org.hibernate.query.NativeQuery"/>
+    <fullyQualifiedTypeName name="javax.persistence.criteria.CriteriaQuery"/>
+    <fullyQualifiedTypeName name="org.hibernate.Filter"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.CacheConcurrencyStrategy"/>
+    <fullyQualifiedTypeName name="javax.persistence.Cache"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.util.HibernateUtil"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.ListIndexBase"/>
+    <fullyQualifiedTypeName name="javax.persistence.OrderColumn"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.persistence.InheritanceType"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.bean.CardPayment"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.bean.Payment"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.hibernate.HibernateException"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="org.hibernate.internal.build.AllowSysOut"/>
+</qualifiedTypeNameHistroy>

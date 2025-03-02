@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="in.pwskills.akash.bean.PersonInfo"
+		table="PERSONINFO">
+
+		<!-- Primary key generator :: HIBERNATE -->
+		<id name="id" type="int" column="id">
+			<generator class="identity"/>
+				
+		</id>
+
+		<property name="pname" column="pname" type="string" />
+		<property name="paddr" column="paddr" type="string" />
+		<property name="dob" column="dob" />
+		<property name="dom" column="dom" />
+		<property name="doj" column="doj" />
+
+	</class>
+</hibernate-mapping>

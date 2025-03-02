@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\HibernateProject"/>
+			<item value="D:\04-Maven-webApp"/>
+			<item value="D:\03-JDBC-Maven-App"/>
+			<item value="D:\02-Maven-App"/>
+			<item value="D:\Hiberante-37-Pesimistic-Lockings"/>
+			<item value="D:\Hiberante-36-Optimistic-Lockings"/>
+			<item value="D:\Hiberante-35-N+1SelectQuery-Apps"/>
+			<item value="D:\Hiberante-34-HQL-JOIN-O2M(BI)s"/>
+			<item value="D:\Hiberante-33-Association-Mapping-O2O-FK(BI)s"/>
+			<item value="D:\Hiberante-32-Association-Mapping-O2O-PK(BI)s"/>
+			<item value="D:\Hiberante-31-Association-Mapping-M2M(BI)s"/>
+			<item value="D:\Hiberante-31-Association-Mapping-M2M(BI)ss"/>
+			<item value="D:\Hiberante-29-Association-Mapping-O2M(UNI)ss"/>
+			<item value="D:\Hiberante-26-InheritanceMapping-TBSC"/>
+			<item value="D:\Hiberante-25-CollectionMapping-Apps"/>
+			<item value="D:\Hiberante-23-Caching-L1L2"/>
+			<item value="D:\MVCCrudApps"/>
+			<item value="D:\MVCCrudAppUsingJSP"/>
+			<item value="D:\Hiberante-18-StandAloneCRUDAPP"/>
+			<item value="D:\Hibernate-15-PaginationApp"/>
+			<item value="D:\Hiberante-09-hibernate-generators"/>
+			<item value="D:\Hiberante-08-hikaricp-connecitonpool"/>
+			<item value="D:\Hiberante-07-Interactingwith2DB&apos;s"/>
+			<item value="D:\Hiberante-07-Interactingwith2DB&apos;ss"/>
+			<item value="D:\Hiberante-04-LOB-operation"/>
+			<item value="D:\Hiberante-01-control-flow"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="11"/>
+			<item key="DIALOG_Y_ORIGIN" value="46"/>
+			<item key="DIALOG_WIDTH" value="984"/>
+			<item key="DIALOG_HEIGHT" value="837"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.wst.xml.ui.XMLExampleProjectCreationWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+		<section name="NewWizard.dialogBounds">
+		</section>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="-98"/>
+		<item key="DIALOG_Y_ORIGIN" value="292"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

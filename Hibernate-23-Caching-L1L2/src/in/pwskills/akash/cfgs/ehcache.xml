@@ -1,0 +1,34 @@
+<ehcache>
+
+    <diskStore path="java.io.tmpdir"/>
+    <!--Default Cache configuration. These will applied to caches programmatically created through
+        the CacheManager.
+
+        The following attributes are required for defaultCache:
+
+        maxElementsInMemory  - Cache memory me ek time par max 100 elements store ho sakte hain.
+        					 Agar yeh limit cross ho gayi, toh naye elements store nahi honge 
+        					 (agar overflowToDisk="true" nahi hota).
+        					 
+        eternal           - Iska matlab yeh hai ki cache elements hamesha ke liye store nahi rahenge,
+        					 balki expire ho sakte hain. Agar yeh "true" hota, toh cache objects kabhi expire nahi hote.
+        					 
+        timeToIdleSeconds - Agar koi element 10 sec tak access nahi hota (idle rehta hai), toh woh cache se 
+        					remove ho jayega.
+							Idle Time = Ab ka Time - Last Access Time
+							
+        timeToLiveSeconds - Yeh define karta hai ki ek element cache me max 30 sec tak hi zinda rahega, chahe use 
+        					access kiya ho ya nahi.
+							TTL (Time to Live) = Ab ka Time - Creation Time
+        
+        overflowToDisk    - Agar memory me jagah khatam ho gayi (100 elements se zyada ho gaye), toh extra elements 
+        					disk par store ho jayenge.
+        -->
+    <defaultCache
+        maxElementsInMemory="100"
+        eternal="false"
+        timeToIdleSeconds="10"
+        timeToLiveSeconds="30"
+        overflowToDisk="true"
+        />
+</ehcache>
