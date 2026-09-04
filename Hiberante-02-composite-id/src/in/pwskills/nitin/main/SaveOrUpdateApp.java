@@ -22,14 +22,14 @@ public class SaveOrUpdateApp {
 			
 			ProgrammerProjectInfo info = new ProgrammerProjectInfo();
 			info.setPname("kohli");
-			info.setProjName("amzon");
+			info.setProjName("amazon");
 			
 			ProgramProjId id = new ProgramProjId();
 			id.setPid(101);
 			id.setProjId(501);
 			info.setId(id);
 			
-			session.save(info);
+			session.saveOrUpdate(info);
 			flag = true;
 			
 		}catch(HibernateException he) {
