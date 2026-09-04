@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
-    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
     <fullyQualifiedTypeName name="in.pwskills.nitin.util.HibernateUtil"/>
     <fullyQualifiedTypeName name="in.pwskills.nitin.bean.Student"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
@@ -15,8 +14,6 @@
     <fullyQualifiedTypeName name="org.hibernate.Filter"/>
     <fullyQualifiedTypeName name="org.hibernate.annotations.CacheConcurrencyStrategy"/>
     <fullyQualifiedTypeName name="javax.persistence.Cache"/>
-    <fullyQualifiedTypeName name="org.hibernate.Session"/>
-    <fullyQualifiedTypeName name="in.pwskills.akash.util.HibernateUtil"/>
     <fullyQualifiedTypeName name="org.hibernate.annotations.ListIndexBase"/>
     <fullyQualifiedTypeName name="javax.persistence.OrderColumn"/>
     <fullyQualifiedTypeName name="java.util.List"/>
@@ -25,9 +22,23 @@
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="in.pwskills.akash.bean.Payment"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="org.hibernate.HibernateException"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="org.hibernate.internal.build.AllowSysOut"/>
     <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.SessionFactory"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.Generated"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.validation.ConfigurableValidationState"/>
     <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.bean.Student"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="in.pwskills.akash.util.HibernateUtil"/>
+    <fullyQualifiedTypeName name="org.hibernate.HibernateException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
 </qualifiedTypeNameHistroy>

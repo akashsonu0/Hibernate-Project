@@ -6,6 +6,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\OctBatchMicroservices\hibernateprograms\Hiberante-01-control-flow"/>
+			<item value="D:\OctBatchMicroservices\hibernateprograme\Hiberante-01-control-flow"/>
 			<item value="D:\HibernateProject"/>
 			<item value="D:\04-Maven-webApp"/>
 			<item value="D:\03-JDBC-Maven-App"/>
@@ -34,7 +36,7 @@
 			<item value="D:\Hiberante-01-control-flow"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="11"/>
+			<item key="DIALOG_X_ORIGIN" value="-207"/>
 			<item key="DIALOG_Y_ORIGIN" value="46"/>
 			<item key="DIALOG_WIDTH" value="984"/>
 			<item key="DIALOG_HEIGHT" value="837"/>

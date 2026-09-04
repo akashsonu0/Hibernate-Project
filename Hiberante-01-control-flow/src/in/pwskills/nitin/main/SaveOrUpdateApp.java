@@ -72,9 +72,9 @@ public class SaveOrUpdateApp {
 				// record not available in database
 				student = new Student();
 				student.setSid(id);
-				student.setSaddress("LSG");
-				student.setSname("rahul");
-				student.setSage(32);
+				student.setSaddress("BRO2");
+				student.setSname("Sonu");
+				student.setSage(21);
 				
 				transaction = session.beginTransaction();
 				

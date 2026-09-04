@@ -22,9 +22,9 @@ public class MainApp {
 			
 			if(transaction !=null) {
 				Student student = new Student();
-				student.setSname("dravid");
-				student.setSage(51);
-				student.setSaddress("RCB");
+				student.setSname("Priyanshu");
+				student.setSage(17);
+				student.setSaddress("WB");
 				
 				session.save(student); //insert query :: refering to Mapping information
 				flag=true;

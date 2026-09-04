@@ -8,15 +8,15 @@ import in.pwskills.akash.bean.Student;
 
 public class HibernateUtil {
 	
-	private static SessionFactory sessionFactory = null;
-	private static Session session = null;
+	public static SessionFactory sessionFactory = null;
+	public static Session session = null;
 	
 	static {
 		if(sessionFactory == null) {
 			sessionFactory = new Configuration()
-							.configure()
-							.addAnnotatedClass(Student.class)
-							.buildSessionFactory();
+							 .configure()
+							 .addAnnotatedClass(Student.class)
+							 .buildSessionFactory();
 		}
 	}
 	

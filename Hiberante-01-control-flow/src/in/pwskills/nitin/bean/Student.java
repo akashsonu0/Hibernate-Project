@@ -2,6 +2,7 @@ package in.pwskills.nitin.bean;
 
 import java.io.Serializable;
 
+
 //JPA Specification
 import javax.persistence.Column;
 import javax.persistence.Entity;

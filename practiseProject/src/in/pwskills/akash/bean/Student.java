@@ -11,30 +11,33 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name = "STUDENT")
-public class Student implements Serializable {
+public class Student implements Serializable{
 
+	/**
+	 * 
+	 */
 	private static final long serialVersionUID = 1L;
-
+	
 	@Id
 	@Column(name = "SID")
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer sid;
-
-	@Column(name = "SNAME", length = 20)
+	
+	@Column(name = "SNAME" ,length = 20)
 	private String sname;
-
-	@Column(name = "SADDRESS", length = 20)
+	
+	@Column(name = "SADDRESS" ,length = 20)
 	private String saddress;
-
+	
 	@Column(name = "SAGE")
 	private Integer sage;
-
+	
 	static {
-		System.out.println("Student.class file is loading...");
+		System.out.println("Student.class is loading...");
 	}
-
+	
 	public Student() {
-		System.out.println("Student OBJECT :: Zero param constructor..."+this);
+		System.out.println("Student OBJECT :: Zero param constructor.."+this);
 	}
 
 	public Integer getSid() {
@@ -72,5 +75,10 @@ public class Student implements Serializable {
 	@Override
 	public String toString() {
 		return "Student [sid=" + sid + ", sname=" + sname + ", saddress=" + saddress + ", sage=" + sage + "]";
-	}		
+	}
+	
+	
+	
+	
+	
 }
