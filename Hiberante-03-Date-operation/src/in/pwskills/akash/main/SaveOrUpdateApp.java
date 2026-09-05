@@ -25,7 +25,7 @@ public class SaveOrUpdateApp {
 			
 			PersonInfo info = new PersonInfo();
 			info.setPaddr("CSK");
-			info.setPname("dhoni");
+			info.setPname("MS dhoni");
 			
 			//year   :: 1900 +
 			//month  :: 1 to 12
