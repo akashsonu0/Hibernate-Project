@@ -7988,3 +7988,6 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.eclipse.jdt.launching 4 107 2026-09-05 15:47:09.352
 !MESSAGE Launch configuration New_configuration references non-existing project Hibernate-01-control-flow.
+
+!ENTRY org.eclipse.jdt.launching 4 107 2026-09-05 15:52:56.585
+!MESSAGE Launch configuration New_configuration references non-existing project Hibernate-01-control-flow.
