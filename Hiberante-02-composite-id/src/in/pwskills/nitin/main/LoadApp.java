@@ -2,9 +2,8 @@ package in.pwskills.nitin.main;
 
 import org.hibernate.HibernateException;
 
-import org.hibernate.Session;
-import org.hibernate.Transaction;
 
+import org.hibernate.Session;
 import in.pwskills.nitin.bean.ProgramProjId;
 import in.pwskills.nitin.bean.ProgrammerProjectInfo;
 import in.pwskills.nitin.util.HibernateUtil;
