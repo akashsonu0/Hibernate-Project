@@ -26,19 +26,19 @@
 
 
 		<!-- providing HIKARICP configuration details -->
-		<property name="hibernate.connection.provider_class">org.hibernate.hikaricp.internal.HikariCPConnectionProvider</property>
-		
-		<!-- HikariCP settings -->
-		<property name="hikari.connectionTimeout">50000</property>
-		
-			<!-- when pool is created it maintains 10 objects in idle state -->
-		<property name="hibernate.hikari.minimumIdle">10</property>
-		
-			<!--  grows to a size of 20 object -->
-		<property name="hibernate.hikari.maximumPoolSize">20</property>
-		
-		<property name="hibernate.hikari.idleTimeout">30000</property>
+		<!-- HikariCP configuration -->
 
+		<property name="hibernate.connection.provider_class">
+    	org.hibernate.hikaricp.internal.HikariCPConnectionProvider
+		</property>
+
+		<property name="hibernate.hikari.connectionTimeout">50000</property>
+
+		<property name="hibernate.hikari.minimumIdle">10</property>
+
+		<property name="hibernate.hikari.maximumPoolSize">20</property>
+
+		<property name="hibernate.hikari.idleTimeout">30000</property>
 
 	</session-factory>
 

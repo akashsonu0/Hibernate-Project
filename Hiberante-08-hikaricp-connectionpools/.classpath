@@ -8,6 +8,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MySQL"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hikaricp"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hikariCP"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
