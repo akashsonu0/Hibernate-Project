@@ -15,7 +15,7 @@ public class LoadApp {
 	public static void main(String[] args) {
 		
 		Session session = null;
-		int id =5;
+		int id =1;
 		
 		try {
 			session = HibernateUtil.getSession();

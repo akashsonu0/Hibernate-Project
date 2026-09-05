@@ -15,9 +15,6 @@ import javax.persistence.Table;
 @Table(name = "NAUKRI")
 public class Naukri implements Serializable {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 	@Id
