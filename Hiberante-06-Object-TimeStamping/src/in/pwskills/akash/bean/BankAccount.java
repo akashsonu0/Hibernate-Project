@@ -115,8 +115,4 @@ public class BankAccount implements Serializable{
 				+ ", openingDate=" + openingDate + ", lastUpdate=" + lastUpdate + ", versionCount=" + versionCount
 				+ "]";
 	}
-
-	
-	
-	
 }
