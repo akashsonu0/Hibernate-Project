@@ -35,5 +35,4 @@ public class MyGenerator implements IdentifierGenerator {
 		
 		return id;
 	}
-
 }
