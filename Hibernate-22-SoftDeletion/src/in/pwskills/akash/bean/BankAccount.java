@@ -8,12 +8,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-import org.hibernate.annotations.Filter;
-import org.hibernate.annotations.FilterDef;
-import org.hibernate.annotations.ParamDef;
-import org.hibernate.annotations.SQLDelete;
-import org.hibernate.annotations.Where;
-
 @Entity
 @Table(name = "BANK_ACCOUNT")
 /*@SQLDelete(sql = "update bank_account set status='closed' where accNo=?")
