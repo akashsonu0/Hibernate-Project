@@ -10,5 +10,8 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MySQL"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hikaricp"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/L2Cache"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hikariCP"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/IOUtils"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jstljars"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

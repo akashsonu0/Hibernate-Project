@@ -6,7 +6,7 @@
 
         The following attributes are required for defaultCache:
 
-        maxElementsInMemory  - Cache memory me ek time par max 100 elements store ho sakte hain.
+        maxElementsInMemory - Cache memory me ek time par max 100 elements store ho sakte hain.
         					 Agar yeh limit cross ho gayi, toh naye elements store nahi honge 
         					 (agar overflowToDisk="true" nahi hota).
         					 
