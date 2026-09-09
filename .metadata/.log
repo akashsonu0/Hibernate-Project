@@ -8465,3 +8465,30 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2026-09-09 14:20:50.190
 !MESSAGE Classpath changed for project: Hiberante-16-NativeSQLQuery
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-09-09 14:24:13.643
+!MESSAGE Classpath changed for project: Hiberante-16-NativeSQL-Query
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-09-09 14:24:13.643
+!MESSAGE Classpath changed for project: Hiberante-17-NativeSQL-Query
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2026-09-09 14:24:13.650
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2026-09-09 14:24:13.651
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2026-09-09 14:24:13.651
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2026-09-09 14:24:13.652
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2026-09-09 14:24:13.654
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2026-09-09 14:24:13.656
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-09-09 14:34:24.837
+!MESSAGE Classpath changed for project: Hiberante-17-NativeSQL-Query
