@@ -31,7 +31,6 @@ public class InsurancePolicyMgmtServiceImpl implements InsurancePolicyManagement
 	
 		return pagesCount;
 	}
-	@Override
 	public List<InsurancePolicyDTO> fetchPageData(int pageSize, int pageNo) {
 		List<InsurancePolicyDTO> listDTO = new ArrayList<InsurancePolicyDTO>();
 		List<InsurancePolicy> entities = null;

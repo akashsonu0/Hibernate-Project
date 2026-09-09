@@ -79,7 +79,7 @@ public class MainControllerServlet extends HttpServlet {
 			pagesCount = service.fetchPagesCount(pageSize);
 
 			// Get the records in each page to print on the UI
-			listDto = service.fetchPageData(pageSize, pageNo);
+			listDto = service.fetchPagesData(pageSize, pageNo);
 
 			request.setAttribute("policyList", listDto);
 			request.setAttribute("pagesCount", pagesCount);
