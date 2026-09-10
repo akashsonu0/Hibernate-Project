@@ -8742,3 +8742,6 @@ Binding(CTRL+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-09-10 16:07:40.656
+!MESSAGE Classpath changed for project: Hibernate-25-CollectionMapping-App
