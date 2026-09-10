@@ -20,9 +20,9 @@ public class ComponentMapppingInsertApp {
 			session = HibernateUtil.getSession();
 			transaction = session.beginTransaction();
 			
-			Address address = new Address("#2/2", "FoodStreet", "VJYNGR", "BENGALURU","IND", 560026L);
+			Address address = new Address("#1/2", "Atri", "Maulanagar", "Bihar","IND", 823311L);
 			
-			StudentInfo student = new StudentInfo("nitin", 35.5f, address);
+			StudentInfo student = new StudentInfo("akash", 21.5f, address);
 			session.save(student);
 			flag = true;
 			
