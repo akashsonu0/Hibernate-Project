@@ -14,8 +14,6 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name="PAYMENT_TBC")
-
-
 @Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
 @DiscriminatorColumn(name = "payement_mode",
 					 discriminatorType = DiscriminatorType.STRING,

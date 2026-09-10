@@ -51,7 +51,6 @@ INDEX VERSION 1.134+D:\OctBatchMicroservices\hibernateprograms\.metadata\.plugin
 3804219522.index
 2140848519.index
 820084027.index
-1221153224.index
 1132740132.index
 3094334721.index
 2656362811.index
