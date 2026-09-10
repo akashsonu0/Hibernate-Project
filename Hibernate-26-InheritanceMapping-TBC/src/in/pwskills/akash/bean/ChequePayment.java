@@ -1,9 +1,6 @@
 package in.pwskills.akash.bean;
 
 import java.time.LocalDate;
-
-import javax.persistence.PrimaryKeyJoinColumn;
-import javax.persistence.Table;
 import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
 
