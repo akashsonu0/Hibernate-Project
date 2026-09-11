@@ -8899,3 +8899,9 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.core.IClasspathEn
 	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:98)
 	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:130)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-09-11 14:44:18.390
+!MESSAGE Classpath changed for project: Hibernate-30-AssociationMapping-O2M(BD)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-09-11 14:44:44.980
+!MESSAGE Classpath changed for project: Hibernate-30-AssociationMapping-O2M(BD)
