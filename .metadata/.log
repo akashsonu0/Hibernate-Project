@@ -8908,3 +8908,12 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.core.IClasspathEn
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2026-09-11 14:54:24.438
 !MESSAGE Classpath changed for project: Hibernate-31-AssociationMapping-M2M(BID)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-09-11 14:56:53.316
+!MESSAGE Classpath changed for project: Hiberante-31-Association-Mapping-M2M(BI)2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-09-11 14:57:08.225
+!MESSAGE Classpath changed for project: Hiberante-33-Association-Mapping-M2M(BI)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-09-11 15:22:02.482
+!MESSAGE Classpath changed for project: Hibernate-32-AssociationMapping-O2O-PK(BID)
